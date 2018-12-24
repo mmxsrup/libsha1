@@ -1,4 +1,4 @@
-## libha1
+## libsha1
 This program is tiny SHA1 Library
 
 ## Algorithm
