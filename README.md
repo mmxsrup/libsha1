@@ -6,7 +6,7 @@ This program is tiny SHA1 Library
 
 ## Compile
 ```sh
-Make
+make
 ```
 
 ## Test
